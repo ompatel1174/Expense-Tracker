@@ -12,6 +12,3 @@ This Streamlit-powered dashboard helps visualize and analyze student monthly and
 - 📈 Interactive charts using Plotly (bar, pie, line)
 - 📌 Key KPIs: Monthly income, total spent, remaining balance, top category
 
-## 🗂️ Project Structure
-<img width="1843" height="939" alt="image" src="https://github.com/user-attachments/assets/ce1a46f0-8761-4b0a-afe8-98a4f24c5335" />
-
